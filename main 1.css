@@ -1,0 +1,21 @@
+body {
+	margin:0px;
+	padding: 0px;
+}
+
+.caja {
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+.caja:nth-child(1) {
+	background: #ED2251;
+}
+
+.caja:nth-child(2) {
+	background: blue;
+}
+
+.caja:nth-child(3) {
+	background: #8BAB42;
+}

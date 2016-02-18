@@ -1,0 +1,23 @@
+body {
+	margin:0px;
+	padding: 0px;
+	position: relative;
+}
+
+.caja {
+	width: 200px;
+	height: 200px;
+}
+.caja:nth-child(1) {
+	background: #ee3e64;
+}
+
+.caja:nth-child(2) {
+	background: #44accf;
+	margin-left: 200px;
+
+}
+
+.caja:nth-child(3) {
+	background: #8b7d84;
+}
